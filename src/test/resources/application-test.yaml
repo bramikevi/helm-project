@@ -1,0 +1,8 @@
+#application-custom.yml
+
+server:
+  port: 8080
+
+app:
+  client-name: client
+  welcome-message: testmessage

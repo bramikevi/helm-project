@@ -1,0 +1,4 @@
+#application-custom.yml
+
+server:
+  port: 8080
